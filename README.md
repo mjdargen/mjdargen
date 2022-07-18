@@ -33,5 +33,5 @@ Hello, my name is Michael. I am an electrical and computer engineer turned educa
 
 <!--https://github.com/anuraghazra/github-readme-stats-->  
 <!--https://github-readme-stats.mjdargen.vercel.app/-->
-[![Top Langs](https://github-readme-stats.mjdargen.vercel.app/api/top-langs/?username=mjdargen&layout=compact&theme=cobalt)](https://github.com/mjdargen/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.mjdargen.vercel.app/api/top-langs/?username=mjdargen&layout=compact&theme=cobalt)](https://github.com/mjdargen/github-readme-stats) -->
 [![Github stats](https://github-readme-stats.mjdargen.vercel.app/api?username=mjdargen&show_icons=true&include_all_commits=true&theme=cobalt)](https://github.com/mjdargen/github-readme-stats)
